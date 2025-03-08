@@ -1,1 +1,1 @@
-# Pizza-Sales-Power-BI-Dashboard
+Analyzed key metrics to assess pizza business performance, including total revenue, average order value, total pizzas sold, total orders, and average pizzas per order. Explored daily trends (weekday and month-wise), percentage share, and identified top and bottom-selling pizzas to uncover sales insights.
